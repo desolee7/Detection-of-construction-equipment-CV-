@@ -1,0 +1,15 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\20230701_HeavyEquipment.v1i.yolo26
+train: images
+val: images
+nc: 10
+names:
+- Bulldozer
+- ConcreteMixer
+- Crane
+- Excavator
+- Loader
+- PileDriving
+- PumpTruck
+- Roller
+- StaticCrane
+- Truck

@@ -1,0 +1,35 @@
+DATASET: -test- 2000-3000.v1i.yolo26
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\-test- 2000-3000.v1i.yolo26
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 999
+Label files: 999
+Objects: 5875
+Classes defined: 13
+Classes present: 13
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 5.88
+Median objects/image: 4.00
+Min objects/image: 1
+Max objects/image: 38
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | Bulldozer                 | objects=    46 |   0.78% | images=    44
+ 1 | Concrete mixer            | objects=    85 |   1.45% | images=    65
+ 2 | Crane                     | objects=   131 |   2.23% | images=   110
+ 3 | Excavator                 | objects=   510 |   8.68% | images=   369
+ 4 | Hanging head              | objects=   134 |   2.28% | images=   103
+ 5 | Loader                    | objects=    53 |   0.90% | images=    49
+ 6 | Other vehicle             | objects=   281 |   4.78% | images=   136
+ 7 | Pile driving              | objects=    68 |   1.16% | images=    42
+ 8 | Pump truck                | objects=    65 |   1.11% | images=    61
+ 9 | Roller                    | objects=    48 |   0.82% | images=    44
+10 | Static crane              | objects=   393 |   6.69% | images=   204
+11 | Truck                     | objects=   251 |   4.27% | images=   152
+12 | Worker                    | objects=  3810 |  64.85% | images=   800

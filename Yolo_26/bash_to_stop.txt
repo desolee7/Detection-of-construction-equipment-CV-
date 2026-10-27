@@ -1,0 +1,7 @@
+cd Yolo_26
+
+type nul > STOP_TRAINING
+
+dir STOP_TRAINING
+
+del STOP_TRAINING

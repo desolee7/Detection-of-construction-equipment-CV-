@@ -1,0 +1,24 @@
+DATASET: dataset_4
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\dataset_4
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 319
+Label files: 319
+Objects: 427
+Classes defined: 2
+Classes present: 2
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 1.34
+Median objects/image: 1.00
+Min objects/image: 1
+Max objects/image: 6
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | tractor                   | objects=   119 |  27.87% | images=   107
+ 1 | truck                     | objects=   308 |  72.13% | images=   218

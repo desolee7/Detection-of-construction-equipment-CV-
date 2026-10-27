@@ -1,0 +1,27 @@
+DATASET: dataset_2
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\dataset_2
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 318
+Label files: 318
+Objects: 3752
+Classes defined: 5
+Classes present: 5
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 11.80
+Median objects/image: 12.00
+Min objects/image: 6
+Max objects/image: 15
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | crane                     | objects=   739 |  19.70% | images=   318
+ 1 | excavator                 | objects=   790 |  21.06% | images=   318
+ 2 | other                     | objects=   639 |  17.03% | images=   254
+ 3 | tractor                   | objects=   477 |  12.71% | images=   286
+ 4 | truck                     | objects=  1107 |  29.50% | images=   317

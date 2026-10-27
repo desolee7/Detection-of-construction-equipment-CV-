@@ -1,0 +1,42 @@
+﻿class_name,-test- 2000-3000.v1i.yolo26,20230701_HeavyEquipment.v1i.yolo26,FYP_MOCSdataset.v3i.yolo26_bbox,Heavy Equipment_yolo,constraction_yolo,dataset_1,dataset_2,dataset_4,large-machinery-v3.v1i.yolo26,yolo_portable crane.v1i.yolo26
+Autocran,–,–,–,–,–,✓,–,–,–,–
+Bucket loader Big,–,–,–,–,–,✓,–,–,–,–
+Bucket loader Standart,–,–,–,–,–,✓,–,–,–,–
+Bulldozer,✓,✓,✓,–,–,✓,–,–,–,–
+Cleaning equipment,–,–,–,–,–,✓,–,–,–,–
+Concrete mixer,✓,–,✓,–,–,–,–,–,–,–
+ConcreteMixer,–,✓,–,–,–,–,–,–,–,–
+Crane,✓,✓,✓,–,–,–,–,–,–,✓
+Crane manipulator,–,–,–,–,–,✓,–,–,–,–
+Dump truck,–,–,–,–,–,✓,–,–,–,–
+Excavator,✓,✓,✓,–,–,✓,–,–,–,–
+Forklift Giraffe,–,–,–,–,–,✓,–,–,–,–
+Forklift Standart,–,–,–,–,–,✓,–,–,–,–
+Gazelle,–,–,–,–,–,✓,–,–,–,–
+Hanging head,✓,–,✓,–,–,–,–,–,–,–
+Loader,✓,✓,✓,–,–,–,–,–,–,–
+Mixer,–,–,–,–,–,✓,–,–,–,–
+Motor grader,–,–,–,–,–,✓,–,–,–,–
+Other vehicle,✓,–,✓,–,–,–,–,–,–,–
+Pile driving,✓,–,✓,–,–,–,–,–,–,–
+PileDriving,–,✓,–,–,–,–,–,–,–,–
+Pump truck,✓,–,✓,–,–,–,–,–,–,–
+PumpTruck,–,✓,–,–,–,–,–,–,–,–
+Roller,✓,✓,✓,–,–,✓,–,–,–,–
+Static crane,✓,–,✓,–,–,–,–,–,–,–
+StaticCrane,–,✓,–,–,–,–,–,–,–,–
+Tanker,–,–,–,–,–,✓,–,–,–,–
+Trailer,–,–,–,–,–,✓,–,–,–,–
+Truck,✓,✓,✓,–,–,✓,–,–,–,–
+Worker,✓,–,✓,–,–,–,–,–,–,–
+bulldozer,–,–,–,✓,–,–,–,–,–,–
+crane,–,–,–,–,–,–,✓,–,✓,–
+dump,–,–,–,✓,–,–,–,–,–,–
+excavator,–,–,–,✓,–,–,✓,–,✓,–
+other,–,–,–,–,–,–,✓,–,–,–
+roller,–,–,–,✓,–,–,–,–,–,–
+tractor,–,–,–,–,–,–,✓,✓,–,–
+truck,–,–,–,–,–,–,✓,✓,–,–
+бетономешалка,–,–,–,–,✓,–,–,–,–,–
+грузовик,–,–,–,–,✓,–,–,–,–,–
+экскаватор,–,–,–,–,✓,–,–,–,–,–

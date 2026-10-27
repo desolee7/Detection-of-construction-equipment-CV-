@@ -1,0 +1,35 @@
+DATASET: FYP_MOCSdataset.v3i.yolo26_bbox
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\FYP_MOCSdataset.v3i.yolo26_bbox
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 9238
+Label files: 9238
+Objects: 53958
+Classes defined: 13
+Classes present: 13
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 5.84
+Median objects/image: 4.00
+Min objects/image: 1
+Max objects/image: 61
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | Bulldozer                 | objects=   478 |   0.89% | images=   416
+ 1 | Concrete mixer            | objects=   688 |   1.28% | images=   474
+ 2 | Crane                     | objects=  1217 |   2.26% | images=   951
+ 3 | Excavator                 | objects=  4448 |   8.24% | images=  3165
+ 4 | Hanging head              | objects=  1243 |   2.30% | images=   968
+ 5 | Loader                    | objects=   408 |   0.76% | images=   385
+ 6 | Other vehicle             | objects=  2410 |   4.47% | images=  1289
+ 7 | Pile driving              | objects=   411 |   0.76% | images=   254
+ 8 | Pump truck                | objects=   613 |   1.14% | images=   551
+ 9 | Roller                    | objects=   410 |   0.76% | images=   341
+10 | Static crane              | objects=  3442 |   6.38% | images=  1786
+11 | Truck                     | objects=  2379 |   4.41% | images=  1403
+12 | Worker                    | objects= 35811 |  66.37% | images=  7344

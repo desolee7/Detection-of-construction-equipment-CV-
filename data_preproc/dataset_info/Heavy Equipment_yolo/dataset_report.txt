@@ -1,0 +1,26 @@
+DATASET: Heavy Equipment_yolo
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\Heavy Equipment_yolo
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 3876
+Label files: 3876
+Objects: 6702
+Classes defined: 4
+Classes present: 4
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 1.73
+Median objects/image: 1.00
+Min objects/image: 1
+Max objects/image: 10
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | bulldozer                 | objects=  2043 |  30.48% | images=  2034
+ 1 | dump                      | objects=  1835 |  27.38% | images=  1563
+ 2 | excavator                 | objects=  2313 |  34.51% | images=  2181
+ 3 | roller                    | objects=   511 |   7.62% | images=   408

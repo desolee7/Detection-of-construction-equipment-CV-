@@ -1,0 +1,23 @@
+DATASET: yolo_portable crane.v1i.yolo26
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\yolo_portable crane.v1i.yolo26
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 352
+Label files: 352
+Objects: 355
+Classes defined: 1
+Classes present: 1
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 1.01
+Median objects/image: 1.00
+Min objects/image: 1
+Max objects/image: 2
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | Crane                     | objects=   355 | 100.00% | images=   352

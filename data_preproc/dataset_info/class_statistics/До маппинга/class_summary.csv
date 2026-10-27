@@ -1,0 +1,42 @@
+﻿class_name,datasets,total_objects,total_images,object_percentage
+Worker,2,39621,8144,31.5
+Excavator,4,15460,12130,12.29
+Dump truck,1,7048,5979,5.6
+Gazelle,1,4883,4089,3.88
+Truck,4,4758,3418,3.78
+excavator,3,4463,3718,3.55
+грузовик,1,4057,2268,3.23
+Static crane,2,3835,1990,3.05
+crane,2,3598,1881,2.86
+Other vehicle,2,2691,1425,2.14
+Bucket loader Big,1,2454,2427,1.95
+Bucket loader Standart,1,2403,2387,1.91
+экскаватор,1,2359,1915,1.88
+Crane,4,2279,1900,1.81
+StaticCrane,1,2071,1145,1.65
+bulldozer,1,2043,2034,1.62
+dump,1,1835,1563,1.46
+Trailer,1,1830,1433,1.45
+Autocran,1,1791,1791,1.42
+truck,2,1415,535,1.13
+Hanging head,2,1377,1071,1.09
+Mixer,1,1224,1180,0.97
+бетономешалка,1,1118,976,0.89
+Forklift Standart,1,971,930,0.77
+Cleaning equipment,1,865,865,0.69
+Crane manipulator,1,847,812,0.67
+Concrete mixer,2,773,539,0.61
+Bulldozer,4,723,651,0.57
+Forklift Giraffe,1,706,683,0.56
+Roller,4,697,605,0.55
+Pump truck,2,678,612,0.54
+Motor grader,1,667,665,0.53
+Loader,3,653,621,0.52
+other,1,639,254,0.51
+tractor,2,596,393,0.47
+roller,1,511,408,0.41
+Pile driving,2,479,296,0.38
+Tanker,1,427,421,0.34
+PumpTruck,1,364,327,0.29
+PileDriving,1,287,183,0.23
+ConcreteMixer,1,278,237,0.22

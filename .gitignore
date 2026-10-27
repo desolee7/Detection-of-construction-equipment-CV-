@@ -1,0 +1,44 @@
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Training runs, experiment artifacts and local tracking databases
+Yolo_26/runs_yolo26/
+Yolo_26/mlruns/
+Yolo_26/onnx_test/
+Yolo-world/yoloworld_experiments_8s/
+Yolo-world/yoloworld_experiments_8x/
+YoloE/yoloe_experiments/
+YoloE/Voskhod/
+mlruns/
+mlartifacts/
+*.db
+*.db-shm
+*.db-wal
+STOP_TRAINING
+
+# Model weights and exports
+*.pt
+*.pth
+*.onnx
+YoloE/mobileclip2_b.ts
+
+# Local datasets and archives (keep dataset_info reports and configs)
+dataset/
+datasets/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.rar
+
+# Local credentials and OS files
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store

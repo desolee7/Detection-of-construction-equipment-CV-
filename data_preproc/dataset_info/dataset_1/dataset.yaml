@@ -1,0 +1,22 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\dataset_1
+train: images
+val: images
+nc: 17
+names:
+- Dump truck
+- Excavator
+- Motor grader
+- Roller
+- Crane manipulator
+- Gazelle
+- Forklift Standart
+- Bucket loader Big
+- Mixer
+- Tanker
+- Bulldozer
+- Cleaning equipment
+- Truck
+- Trailer
+- Forklift Giraffe
+- Bucket loader Standart
+- Autocran

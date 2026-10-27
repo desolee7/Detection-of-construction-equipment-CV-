@@ -1,0 +1,32 @@
+DATASET: 20230701_HeavyEquipment.v1i.yolo26
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\20230701_HeavyEquipment.v1i.yolo26
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 3962
+Label files: 3962
+Objects: 7226
+Classes defined: 10
+Classes present: 10
+Images without labels: 0
+Empty label files: 185
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 1.82
+Median objects/image: 1.00
+Min objects/image: 0
+Max objects/image: 20
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | Bulldozer                 | objects=   198 |   2.74% | images=   190
+ 1 | ConcreteMixer             | objects=   278 |   3.85% | images=   237
+ 2 | Crane                     | objects=   576 |   7.97% | images=   487
+ 3 | Excavator                 | objects=  2219 |  30.71% | images=  1774
+ 4 | Loader                    | objects=   192 |   2.66% | images=   187
+ 5 | PileDriving               | objects=   287 |   3.97% | images=   183
+ 6 | PumpTruck                 | objects=   364 |   5.04% | images=   327
+ 7 | Roller                    | objects=   218 |   3.02% | images=   199
+ 8 | StaticCrane               | objects=  2071 |  28.66% | images=  1145
+ 9 | Truck                     | objects=   823 |  11.39% | images=   608

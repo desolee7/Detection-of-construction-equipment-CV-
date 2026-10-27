@@ -1,0 +1,24 @@
+DATASET: large-machinery-v3.v1i.yolo26
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\large-machinery-v3.v1i.yolo26
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 2470
+Label files: 2470
+Objects: 4219
+Classes defined: 2
+Classes present: 2
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 1.71
+Median objects/image: 1.00
+Min objects/image: 1
+Max objects/image: 13
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | excavator                 | objects=  1360 |  32.24% | images=  1219
+ 1 | crane                     | objects=  2859 |  67.76% | images=  1563

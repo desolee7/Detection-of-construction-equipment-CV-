@@ -1,0 +1,39 @@
+DATASET: dataset_1
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\dataset_1
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 19982
+Label files: 19982
+Objects: 35726
+Classes defined: 17
+Classes present: 17
+Images without labels: 0
+Empty label files: 2699
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 1.79
+Median objects/image: 2.00
+Min objects/image: 0
+Max objects/image: 7
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | Dump truck                | objects=  7048 |  19.73% | images=  5979
+ 1 | Excavator                 | objects=  8283 |  23.18% | images=  6822
+ 2 | Motor grader              | objects=   667 |   1.87% | images=   665
+ 3 | Roller                    | objects=    21 |   0.06% | images=    21
+ 4 | Crane manipulator         | objects=   847 |   2.37% | images=   812
+ 5 | Gazelle                   | objects=  4883 |  13.67% | images=  4089
+ 6 | Forklift Standart         | objects=   971 |   2.72% | images=   930
+ 7 | Bucket loader Big         | objects=  2454 |   6.87% | images=  2427
+ 8 | Mixer                     | objects=  1224 |   3.43% | images=  1180
+ 9 | Tanker                    | objects=   427 |   1.20% | images=   421
+10 | Bulldozer                 | objects=     1 |   0.00% | images=     1
+11 | Cleaning equipment        | objects=   865 |   2.42% | images=   865
+12 | Truck                     | objects=  1305 |   3.65% | images=  1255
+13 | Trailer                   | objects=  1830 |   5.12% | images=  1433
+14 | Forklift Giraffe          | objects=   706 |   1.98% | images=   683
+15 | Bucket loader Standart    | objects=  2403 |   6.73% | images=  2387
+16 | Autocran                  | objects=  1791 |   5.01% | images=  1791

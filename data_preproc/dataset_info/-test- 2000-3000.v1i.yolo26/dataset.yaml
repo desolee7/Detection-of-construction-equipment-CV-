@@ -1,0 +1,18 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\-test- 2000-3000.v1i.yolo26
+train: images
+val: images
+nc: 13
+names:
+- Bulldozer
+- Concrete mixer
+- Crane
+- Excavator
+- Hanging head
+- Loader
+- Other vehicle
+- Pile driving
+- Pump truck
+- Roller
+- Static crane
+- Truck
+- Worker

@@ -1,0 +1,18 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\FYP_MOCSdataset.v3i.yolo26_bbox
+train: images
+val: images
+nc: 13
+names:
+- Bulldozer
+- Concrete mixer
+- Crane
+- Excavator
+- Hanging head
+- Loader
+- Other vehicle
+- Pile driving
+- Pump truck
+- Roller
+- Static crane
+- Truck
+- Worker

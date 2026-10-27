@@ -1,0 +1,6 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\datasets\yolo_portable crane.v1i.yolo26
+train: images
+val: images
+nc: 1
+names:
+- Crane

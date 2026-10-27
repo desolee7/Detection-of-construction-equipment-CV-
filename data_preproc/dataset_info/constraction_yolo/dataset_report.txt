@@ -1,0 +1,25 @@
+DATASET: constraction_yolo
+PATH: C:\Users\Ева\Desktop\Хакатон\data_preproc\constraction_yolo
+
+GENERAL INFORMATION
+--------------------------------------------------
+Images: 3651
+Label files: 3651
+Objects: 7534
+Classes defined: 3
+Classes present: 3
+Images without labels: 0
+Empty label files: 0
+Invalid label lines: 0
+Unknown classes: 0
+
+Mean objects/image: 2.06
+Median objects/image: 2.00
+Min objects/image: 1
+Max objects/image: 12
+
+CLASS DISTRIBUTION
+--------------------------------------------------
+ 0 | бетономешалка             | objects=  1118 |  14.84% | images=   976
+ 1 | грузовик                  | objects=  4057 |  53.85% | images=  2268
+ 2 | экскаватор                | objects=  2359 |  31.31% | images=  1915

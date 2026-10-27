@@ -1,0 +1,10 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\dataset_2
+train: images
+val: images
+nc: 5
+names:
+- crane
+- excavator
+- other
+- tractor
+- truck

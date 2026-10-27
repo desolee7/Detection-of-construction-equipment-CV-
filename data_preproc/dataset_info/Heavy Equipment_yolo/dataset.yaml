@@ -1,0 +1,9 @@
+path: C:\Users\Ева\Desktop\Хакатон\data_preproc\Heavy Equipment_yolo
+train: images
+val: images
+nc: 4
+names:
+- bulldozer
+- dump
+- excavator
+- roller
