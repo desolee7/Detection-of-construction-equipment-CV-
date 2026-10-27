@@ -1,0 +1,12 @@
+[
+  {
+    "epoch": 1,
+    "metrics/precision(B)": 0.54482,
+    "metrics/recall(B)": 0.41046,
+    "metrics/mAP50(B)": 0.42963,
+    "metrics/mAP50-95(B)": 0.25407,
+    "val/box_loss": 1.77061,
+    "val/cls_loss": 2.71359,
+    "val/l1_loss": 0.01995
+  }
+]

@@ -1,0 +1,7 @@
+﻿experiment,truck,excavator,concrete mixer
+01_baseline,truck,excavator,concrete mixer
+02_vehicle,truck vehicle,excavator vehicle,concrete mixer truck
+03_complete,a complete truck vehicle,a complete excavator vehicle,a complete concrete mixer truck
+04_construction,construction truck,construction excavator,concrete mixer truck
+05_heavy_equipment,heavy truck,excavator construction machine,concrete mixer truck
+06_specific,a road truck,a tracked excavator,a concrete mixer truck

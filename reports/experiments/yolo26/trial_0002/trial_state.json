@@ -1,0 +1,95 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "metrics/precision(B)": 0.66739,
+      "metrics/recall(B)": 0.51686,
+      "metrics/mAP50(B)": 0.57359,
+      "metrics/mAP50-95(B)": 0.38195,
+      "val/box_loss": 1.36616,
+      "val/cls_loss": 2.00155,
+      "val/l1_loss": 0.01553
+    },
+    {
+      "epoch": 2,
+      "metrics/precision(B)": 0.78449,
+      "metrics/recall(B)": 0.61223,
+      "metrics/mAP50(B)": 0.69917,
+      "metrics/mAP50-95(B)": 0.48721,
+      "val/box_loss": 1.20693,
+      "val/cls_loss": 1.41187,
+      "val/l1_loss": 0.01383
+    },
+    {
+      "epoch": 3,
+      "metrics/precision(B)": 0.81299,
+      "metrics/recall(B)": 0.6692,
+      "metrics/mAP50(B)": 0.74313,
+      "metrics/mAP50-95(B)": 0.53347,
+      "val/box_loss": 1.16341,
+      "val/cls_loss": 1.2192,
+      "val/l1_loss": 0.01326
+    },
+    {
+      "epoch": 4,
+      "metrics/precision(B)": 0.81878,
+      "metrics/recall(B)": 0.70599,
+      "metrics/mAP50(B)": 0.7771,
+      "metrics/mAP50-95(B)": 0.5702,
+      "val/box_loss": 1.08663,
+      "val/cls_loss": 1.08769,
+      "val/l1_loss": 0.01218
+    },
+    {
+      "epoch": 5,
+      "metrics/precision(B)": 0.83772,
+      "metrics/recall(B)": 0.74053,
+      "metrics/mAP50(B)": 0.81666,
+      "metrics/mAP50-95(B)": 0.61377,
+      "val/box_loss": 1.03363,
+      "val/cls_loss": 0.97269,
+      "val/l1_loss": 0.01162
+    },
+    {
+      "epoch": 6,
+      "metrics/precision(B)": 0.85502,
+      "metrics/recall(B)": 0.74857,
+      "metrics/mAP50(B)": 0.82351,
+      "metrics/mAP50-95(B)": 0.62746,
+      "val/box_loss": 1.01175,
+      "val/cls_loss": 0.91171,
+      "val/l1_loss": 0.01122
+    },
+    {
+      "epoch": 7,
+      "metrics/precision(B)": 0.82844,
+      "metrics/recall(B)": 0.76241,
+      "metrics/mAP50(B)": 0.83104,
+      "metrics/mAP50-95(B)": 0.63186,
+      "val/box_loss": 0.98002,
+      "val/cls_loss": 0.89068,
+      "val/l1_loss": 0.01067
+    },
+    {
+      "epoch": 8,
+      "metrics/precision(B)": 0.84992,
+      "metrics/recall(B)": 0.77773,
+      "metrics/mAP50(B)": 0.84225,
+      "metrics/mAP50-95(B)": 0.65128,
+      "val/box_loss": 0.966,
+      "val/cls_loss": 0.82826,
+      "val/l1_loss": 0.01047
+    },
+    {
+      "epoch": 9,
+      "metrics/precision(B)": 0.8498471802671638,
+      "metrics/recall(B)": 0.777580005482765,
+      "metrics/mAP50(B)": 0.8423820301314974,
+      "metrics/mAP50-95(B)": 0.651174995888016
+    }
+  ],
+  "last_epoch": 9,
+  "last_map5095": 0.651174995888016,
+  "best_map5095": 0.65128,
+  "manual_stop": true
+}
